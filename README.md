@@ -72,12 +72,10 @@ Detailed documentation including methodology, device configurations, results, an
 
 ---
 
-## 👩‍🎓 Author
+   ## 👩‍🎓 Author
 **Sumaira Safeer**  
-BS Computer Engineering (Final Year)  
+Computer Engineer 
 COMSATS University Islamabad, Attock Campus  
 [LinkedIn](https://www.linkedin.com/in/sumaira-safeer-948804418/)
-
----
 
 *This project demonstrates practical skills in campus network design, VLAN implementation, DHCP configuration, and hierarchical routing using industry-standard simulation tools.*
